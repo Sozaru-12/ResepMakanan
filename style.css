@@ -1,0 +1,7 @@
+body{
+	background: url('Sunset.jpg');
+	color: #000000;
+    section {
+        background-position: 20px 30px;
+      }
+}
